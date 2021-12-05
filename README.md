@@ -1,8 +1,8 @@
-# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/stringriobot)
+# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/kanekistringbot)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/rioprojectx"><img src="https://telegra.ph/file/a1253014959e7493333aa.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/rioprojectx"><img src="https://telegra.ph/file/a1253014959e7493333aa.jpg" width="1500"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
