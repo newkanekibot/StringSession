@@ -66,7 +66,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Rio Project](https://t.me/TebMusicUpdate)
+Channel :- [Kaneki Project](https://t.me/TebMusicUpdate)
 
 Group Chat :- [Group support](https://t.me/TebBotSupport)
 
